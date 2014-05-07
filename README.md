@@ -1,7 +1,9 @@
-elements
-========
+Elements for Styling
+====================
 
 A basic set of semantic elements used as a base for project style guides.
+
+## Quick Cheat Sheet
 
 Here’s a quick list of elements (as styled by Github):
 
@@ -35,27 +37,29 @@ Here’s a horizontal rule:
 
 Text can have *italics*, **bold bits** and [Hyperlinks to other places](http://madebyfieldwork.com)
 
+## More Info
+
 Here’s more detail about how they’re used:
 
-## Headings
+### Headings
 
-### H1: First level heading
+#### H1: First level heading
 
 Main heading, usually only used once on a page, and usually the page title.
 
-### H2: Second level heading
+#### H2: Second level heading
 
 A sub-heading, usually used to title sections within a page. Can be used multiple times on a page.
 
-### H3-6: Lower level headings
+#### H3-6: Lower level headings
 
 H3 is usually enough, but headings can go down to a sixth-level.
 
-## Blockquotes
+### Blockquotes
 
 A blockquote is quoted content. It can contain pretty much any content (headings, lists, paragraphs, etc.) and is usually used for things like pull quotes or citations from other sources.
 
-## Lists & Paras
+### Lists & Paras
 
 Lists and paragraphs are pretty self-exaplanitory—see examples above.
 
