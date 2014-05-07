@@ -16,7 +16,6 @@ Here’s a quick list of elements (as styled by Github):
 
 > This is a block quote
 
-Here’s a horizontal rule:
 --
 
 > # This is also a blockquote
