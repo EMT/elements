@@ -51,27 +51,9 @@ A sub-heading, usually used to title sections within a page. Can be used multipl
 
 H3 is usually enough, but headings can go down to a sixth-level.
 
-## Blockquotes, Lists & Paragraph Styles
-
-### Blockquotes
+## Blockquotes
 
 A blockquote is quoted content. It can contain pretty much any content (headings, lists, paragraphs, etc.) and is usually used for things like pull quotes or citations from other sources.
-
-#### Examples
-
-Simple blockquote:
-
-> This is a block quote
-
-Blockquote with different content types:
-
-> # This blockquote has a heading
->
-> And some paragraph text. And a list:
->
-> - Item 1
-> - Item 2
-> - Item 3
 
 ## Lists & Paras
 
